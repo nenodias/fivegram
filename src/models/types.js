@@ -1,0 +1,6 @@
+export const MODEL_PROCESS = 'model.process'
+export const MODEL_IO = 'model.io'
+export const MODEL_IF = 'model.if'
+export const MODEL_JOIN = 'model.join'
+export const MODEL_INPUT = 'model.input'
+export const MODEL_PRINT = 'model.print'
