@@ -11,6 +11,7 @@ System.config({
     'vue': './node_modules/vue/dist/vue.js',
     'vue-router': './node_modules/vue-router/dist/vue-router.js',
     'vuex': './node_modules/vuex/dist/vuex.js',
+    'vuetify': './node_modules/vuetify/dist/vuetify.js',
     'fabric': './node_modules/fabric/dist/fabric.require.js'
   }
 });
